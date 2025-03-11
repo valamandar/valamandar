@@ -25,7 +25,7 @@
 
 - 💬 Talk to me **Freelancing, Projects, MERN Stack, Javascript & PHP**
 
-- 📫 How to reach me **valamandar1@gmail.com**
+- 📫 How to reach me **contact@valamandar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
