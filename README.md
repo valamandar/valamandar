@@ -17,6 +17,9 @@
 </p>
 
 <p align="center">
+  <a href="https://valamandar.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20valamandar.com-bd93f9?style=for-the-badge&logoColor=white&labelColor=282a36" alt="website" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=valamandar&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/valamandar?label=Followers&style=for-the-badge&color=ff79c6&labelColor=282a36" alt="followers" />
   <a href="mailto:contact@valamandar.com">
@@ -185,15 +188,18 @@ const vala = {
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                               TROPHIES                                 -->
+<!--                          PROFILE SUMMARY CARDS                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 Profile Summary
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=valamandar&theme=dracula&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valamandar&theme=dracula" alt="profile details" width="96%" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valamandar&theme=dracula" alt="repos per language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valamandar&theme=dracula" alt="most commit language" />
 </p>
 
 <br>
@@ -219,6 +225,51 @@ const vala = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="dev quote" />
 </p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             PORTFOLIO CTA                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🌍 My Portfolio & Projects
+
+<p align="center">
+  <a href="https://valamandar.com" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Discover+my+work+at+valamandar.com;%F0%9F%92%BC+Projects%2C+case+studies+%26+services;%F0%9F%8C%90+Let's+build+the+web+together" alt="portfolio typing" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://valamandar.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20valamandar.com-bd93f9?style=for-the-badge&labelColor=282a36&color=bd93f9" alt="visit website" height="50" />
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💼</h3>
+      <strong>Portfolio</strong><br>
+      <sub>Browse my latest work</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️</h3>
+      <strong>Services</strong><br>
+      <sub>Web dev · DevOps · Freelance</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📬</h3>
+      <strong>Contact</strong><br>
+      <sub>Let's start a conversation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://valamandar.com" target="_blank">valamandar.com →</a></td>
+    <td align="center"><a href="https://valamandar.com" target="_blank">valamandar.com →</a></td>
+    <td align="center"><a href="mailto:contact@valamandar.com">contact@valamandar.com →</a></td>
+  </tr>
+</table>
 
 <br>
 
@@ -249,5 +300,5 @@ const vala = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
 <p align="center">
-  <sub>⭐ From <a href="https://github.com/valamandar">valamandar</a> · Crafted with passion in Kinshasa 🇨🇩</sub>
+  <sub>⭐ From <a href="https://github.com/valamandar">valamandar</a> · <a href="https://valamandar.com">valamandar.com</a> · Crafted with passion in Kinshasa 🇨🇩</sub>
 </p>
