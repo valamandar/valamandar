@@ -1,61 +1,253 @@
-<h1 align="center">Hi 👋, I'm Vala Mandar</h1>
-<h3 align="center">Young, passionate about computer technologies since childhood, from Congo DRC</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           HEADER BANNER                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=valamandar&label=Profile%20views&color=0e75b6&style=flat" alt="valamandar" /> </p>
+<a href="https://github.com/valamandar">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vala%20Mandar&fontSize=70&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35&desc=MERN%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Builder%20from%20DRC%20%F0%9F%87%A8%F0%9F%87%A9&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+</a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valamandar" alt="valamandar" /></a> </p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         TYPING ANIMATION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valamandar&" alt="valamandar" />
-<!-- &nbsp; -->
-<br><br>
-
-</p>
- 
-<br>
-
- 
-
-- 🔭 I’m currently working on **MERN Stack and DevOps**
-
-- 🌱 I’m currently learning **React Js , React Native, Node Js, MongoDB, Python, Machine Learning, Docker, Kubernetes, Tailwind CSS, Bootstrap CSS Symfony and PHP**
-
-- 👯 I’m looking to collaborate on **different projects**
-
-- 💬 Talk to me **Freelancing, Projects, MERN Stack, Javascript & PHP**
-
-- 📫 How to reach me **contact@valamandar.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dieu-merci-vala-3355481b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dieu-merci vala" height="30" width="40" /></a>
-<a href="https://kaggle.com/valamandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vala mandar" height="30" width="40" /></a>
-<a href="https://fb.com/DieuVala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vala mandar" height="30" width="40" /></a>
-<a href="https://instagram.com/vala_mandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vala_mandar" height="30" width="40" /></a>
-<a href="https://dribbble.com/iron_designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iron_designer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vala mandar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vala mandar" height="30" width="40" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&color=BD93F9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dieu-Merci+Vala;MERN+Stack+Developer+%E2%9A%A1;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+from+Kinshasa%2C+DRC+%F0%9F%87%A8%F0%9F%87%A9;Open+to+Freelance+%26+Collaborations" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-<br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valamandar&show_icons=true&locale=en&layout=compact" alt="valamandar" />
-<!-- &nbsp; -->
-<br><br>
-
+  <img src="https://komarev.com/ghpvc/?username=valamandar&label=Profile%20views&color=bd93f9&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/valamandar?label=Followers&style=for-the-badge&color=ff79c6&labelColor=282a36" alt="followers" />
+  <a href="mailto:contact@valamandar.com">
+    <img src="https://img.shields.io/badge/-Hire%20me-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36&labelColor=282a36" alt="hire me" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <br>
 
-<h3 align="center">Stats :</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> About Me
 
+```typescript
+const vala = {
+  location:   "Kinshasa, DR Congo 🇨🇩",
+  role:       "Full-Stack Developer & DevOps Learner",
+  code:       ["JavaScript", "TypeScript", "PHP", "Python"],
+  stack: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend:  ["Node.js", "Express", "Symfony"],
+    database: ["MongoDB", "MySQL", "Redis"],
+    devops:   ["Docker", "Kubernetes", "Linux", "Nginx"],
+  },
+  currentFocus: "Scaling MERN apps with container orchestration",
+  funFact:      "I've been fascinated by computers since I was a kid 🚀",
+};
+```
+
+- 🔭 **Currently building** → production-grade **MERN Stack** apps with CI/CD pipelines
+- 🌱 **Exploring** → **Kubernetes**, **Machine Learning**, cloud architecture
+- 👯 **Open to collaborate** → on impactful open-source & freelance projects
+- 💬 **Ask me about** → JavaScript, React, Node.js, PHP, Docker
+- 📫 **Reach me** → [contact@valamandar.com](mailto:contact@valamandar.com)
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            CONNECT WITH ME                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect with me
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=valamandar&show_icons=true&locale=en" alt="valamandar" />
-<!-- &nbsp; -->
+  <a href="https://linkedin.com/in/dieu-merci-vala-3355481b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact@valamandar.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://kaggle.com/valamandar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://dribbble.com/iron_designer" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  </a>
+  <a href="https://instagram.com/vala_mandar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://fb.com/DieuVala" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@valamandar" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             TECH STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="110"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><strong>DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=valamandar&show_icons=true&count_private=true&hide_border=true&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36" alt="stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=valamandar&theme=dracula&hide_border=true&background=282a36&stroke=bd93f9&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valamandar&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="top languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=valamandar&theme=dracula&utcOffset=1" alt="productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valamandar&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="activity graph" width="96%" />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                               TROPHIES                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=valamandar&theme=dracula&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            SNAKE ANIMATION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/valamandar/valamandar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             DEV QUOTE                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 💭 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="dev quote" />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         LET'S BUILD TOGETHER                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🤝 Let's build something together
+
+<p align="center">
+  <em>I'm always excited to work on meaningful projects — freelance, open-source, or full-time.</em><br>
+  <em>If you have an idea worth shipping, let's talk.</em>
+</p>
+
+<p align="center">
+  <a href="mailto:contact@valamandar.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20email-bd93f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282a36" alt="email cta" />
+  </a>
+  <a href="https://linkedin.com/in/dieu-merci-vala-3355481b5">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282a36" alt="linkedin cta" />
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                             FOOTER WAVE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+
+<p align="center">
+  <sub>⭐ From <a href="https://github.com/valamandar">valamandar</a> · Crafted with passion in Kinshasa 🇨🇩</sub>
 </p>
