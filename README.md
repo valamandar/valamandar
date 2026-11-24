@@ -1,14 +1,19 @@
-<h1 align="center">Vala Mandar</h1>
-
 <p align="center">
-  <strong>Software &amp; DevOps engineer · QA Automation · Recherche en génie logiciel</strong><br>
-  <sub>Basé à Kinshasa, RDC 🇨🇩 · Concevoir, expertiser, transmettre</sub>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valamandar/valamandar/master/assets/header-light.svg">
+    <img src="https://raw.githubusercontent.com/valamandar/valamandar/master/assets/header-dark.svg" alt="Vala Mandar" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://valamandar.com"><img src="https://img.shields.io/badge/🌐%20valamandar.com-bd93f9?style=for-the-badge&labelColor=282a36" alt="Site" /></a>
-  <a href="https://valamandar.com/blog"><img src="https://img.shields.io/badge/📝%20Journal-ff79c6?style=for-the-badge&labelColor=282a36" alt="Journal" /></a>
-  <a href="https://valamandar.com/contact"><img src="https://img.shields.io/badge/✉️%20Me%20contacter-50fa7b?style=for-the-badge&labelColor=282a36&logoColor=282a36" alt="Contact" /></a>
+  <strong>Software &amp; DevOps engineer, chercheur en génie logiciel et IA</strong><br>
+  <sub>Audits, architecture, R&amp;D appliquée et enseignement · Kinshasa, RDC 🇨🇩 · remote</sub>
+</p>
+
+<p align="center">
+  <a href="https://valamandar.com"><img src="https://img.shields.io/badge/valamandar.com-Voir%20mes%20travaux-4ade80?style=for-the-badge&labelColor=07080c" alt="Voir mes travaux" /></a>
+  <a href="https://valamandar.com/blog"><img src="https://img.shields.io/badge/Journal-Notes%20%26%20articles-0d0f15?style=for-the-badge&labelColor=0d0f15" alt="Journal" /></a>
+  <a href="https://valamandar.com/contact"><img src="https://img.shields.io/badge/Contact-Me%20consulter-0d0f15?style=for-the-badge&labelColor=0d0f15" alt="Me consulter" /></a>
 </p>
 
 ## À propos
@@ -19,30 +24,39 @@
 - 🎓 **Je transmets** : enseignement et accompagnement technique.
 - 💬 **Parlons de** : Laravel, PHP, React, tests automatisés, Docker, GitHub Actions.
 
-Mon portfolio, mes projets et mes articles sont sur **[valamandar.com](https://valamandar.com)**. Le Journal propose aussi un [flux RSS](https://valamandar.com/feed.xml).
+Mon portfolio, mes projets et mes articles sont sur **[valamandar.com](https://valamandar.com)**.
 
 ## Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d0f15?style=flat-square&logo=php&logoColor=4ade80)
+![Laravel](https://img.shields.io/badge/Laravel-0d0f15?style=flat-square&logo=laravel&logoColor=4ade80)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0f15?style=flat-square&logo=typescript&logoColor=4ade80)
+![React](https://img.shields.io/badge/React-0d0f15?style=flat-square&logo=react&logoColor=4ade80)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0f15?style=flat-square&logo=tailwindcss&logoColor=4ade80)
+![Python](https://img.shields.io/badge/Python-0d0f15?style=flat-square&logo=python&logoColor=4ade80)
+![Docker](https://img.shields.io/badge/Docker-0d0f15?style=flat-square&logo=docker&logoColor=4ade80)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d0f15?style=flat-square&logo=githubactions&logoColor=4ade80)
+![Linux](https://img.shields.io/badge/Linux-0d0f15?style=flat-square&logo=linux&logoColor=4ade80)
+![MySQL](https://img.shields.io/badge/MySQL-0d0f15?style=flat-square&logo=mysql&logoColor=4ade80)
 
 ## Activité
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=valamandar&show_icons=true&hide_border=true&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36" alt="Statistiques GitHub" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valamandar&layout=compact&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Langages principaux" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=valamandar&show_icons=true&hide_border=true&border_radius=16&title_color=0a8f47&icon_color=0ea5e9&text_color=1d1d1f&bg_color=f5f5f7">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=valamandar&show_icons=true&hide_border=true&border_radius=16&title_color=4ade80&icon_color=22d3ee&text_color=f5f6f8&bg_color=07080c" alt="Statistiques GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valamandar&layout=compact&hide_border=true&border_radius=16&title_color=0a8f47&text_color=1d1d1f&bg_color=f5f5f7">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valamandar&layout=compact&hide_border=true&border_radius=16&title_color=4ade80&text_color=f5f6f8&bg_color=07080c" alt="Langages principaux" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/valamandar/valamandar/output/github-contribution-grid-snake-dark.svg" alt="Contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valamandar/valamandar/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/valamandar/valamandar/output/github-contribution-grid-snake-dark.svg" alt="Contributions" />
+  </picture>
 </p>
 
 ## Me retrouver
