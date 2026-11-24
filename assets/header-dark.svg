@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Vala Mandar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="a1" cx="0.2" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#4ade80" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#4ade80" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="a2" cx="0.85" cy="0.3" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="200" rx="22" fill="#07080c"/>
+  <rect width="900" height="200" rx="22" fill="url(#a1)"/>
+  <rect width="900" height="200" rx="22" fill="url(#a2)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="78" y="62" width="76" height="76" rx="22" fill="url(#g)"/>
+  <text x="116" y="116" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue','Segoe UI',sans-serif" font-size="44" font-weight="800" fill="#07080c">V</text>
+  <text x="182" y="108" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue','Segoe UI',sans-serif" font-size="58" font-weight="600" letter-spacing="-2" fill="#f5f6f8">Vala <tspan fill="url(#t)">Mandar</tspan></text>
+  <text x="184" y="142" font-family="'New York','Iowan Old Style',Charter,Georgia,serif" font-style="italic" font-size="24" fill="#f5f6f8" fill-opacity="0.55">Construire des produits qui durent.</text>
+</svg>
